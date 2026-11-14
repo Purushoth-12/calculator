@@ -25,3 +25,8 @@ Make sure you have the required runtime or compiler installed:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Purushoth-12/calculator.git](https://github.com/Purushoth-12/calculator.git)
+## Output
+
+The following image shows the sample output of the Python Calculator.
+
+![Python Calculator Output](python_calculator_output.png)
