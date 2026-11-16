@@ -1,6 +1,6 @@
 # Simple Calculator
 
-A simple, user-friendly calculator application designed to perform standard arithmetic operations
+A simple, user-friendly calculator application designed to perform standard arithmetic operations.
 
 ---
 
